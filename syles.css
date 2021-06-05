@@ -88,3 +88,14 @@
     line-height: 20px;
     margin-bottom: 27px;
 }
+.gallery .gallery_img {
+    margin-left: 34px;
+    margin-bottom: 15px;
+    width: 417px;
+}
+.pricing .btn {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 500;
+    background-color: #F20505;
+    margin-left: 134px;
+}
