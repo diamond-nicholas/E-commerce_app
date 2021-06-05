@@ -1,4 +1,68 @@
 * {
     margin: 0;
     box-sizing: border-box;
+    color: #000000;
+}
+.navbar {
+    background-color: #000000;
+    color: #ffffff;
+}
+.navbar h3 {
+    font-size: 16px;
+    text-align: center;
+    margin-left: 110px;
+    margin-top: 5px;
+}
+.home {
+    background-color: #ffffff;
+}
+.home_left {
+    
+}
+.home_left h1 {
+    color: #e34138;
+    font-family: 'Montserrat', Sans-serif;
+    font-weight: 600;
+    font-size: 21px;
+    margin-left: 79px;
+    margin-top: 18px;
+    margin-bottom: 2px;
+}
+.home_left .sub {
+    color: #680000;
+    font-family: 'Montserrat', Sans-serif;
+    font-weight: 600;
+    margin-left: 169px;
+    margin-bottom: 10px;
+}
+.home_left .txt {
+    color: #000000;
+    font-family: 'Montserrat', Sans-serif;
+    font-weight: 500;
+    line-height: 20px;
+    margin-left: 13px;
+}
+/* this is for the timer countdown */
+.coming_soon h3{
+    font-size: 15px;
+}
+.countdown {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.day,.hour,.minutes,.secs {
+    font-size: 25px;
+}
+.price p {
+    color: #B31808;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+    margin-left: 144px;
+}
+.home_left .btn {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 500;
+    background-color: #F20505;
+    margin-left: 134px;
 }
