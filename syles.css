@@ -70,3 +70,21 @@
     margin-top: 20px;
     margin-left: 50px;
 }
+/* feature */
+.feature h5 {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 600;
+    font-size: 21px;
+    margin-left: 63px;
+    margin-top: 32px;
+    margin-bottom: 23px;
+}
+.feature .feature_list .list {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+    list-style: georgian;
+    line-height: 20px;
+    margin-bottom: 27px;
+}
