@@ -10,7 +10,7 @@
 .navbar h3 {
     font-size: 16px;
     text-align: center;
-    margin-left: 110px;
+    margin-left: 80px;
     margin-top: 5px;
 }
 .home {
@@ -23,8 +23,8 @@
     color: #e34138;
     font-family: 'Montserrat', Sans-serif;
     font-weight: 600;
-    font-size: 21px;
-    margin-left: 79px;
+    font-size: 16px;
+    margin-left: 61px;
     margin-top: 18px;
     margin-bottom: 2px;
 }
@@ -32,7 +32,7 @@
     color: #680000;
     font-family: 'Montserrat', Sans-serif;
     font-weight: 600;
-    margin-left: 169px;
+    margin-left: 132px;
     margin-bottom: 10px;
 }
 .home_left .txt {
@@ -68,15 +68,15 @@
 }
 .slider {
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 15px;
 }
 /* feature */
 .feature h5 {
     color: #000000;
     font-family: "Montserrat", Sans-serif;
     font-weight: 600;
-    font-size: 21px;
-    margin-left: 63px;
+    font-size: 15px;
+    margin-left: 42px;
     margin-top: 32px;
     margin-bottom: 23px;
 }
@@ -89,7 +89,7 @@
     margin-bottom: 27px;
 }
 .gallery .gallery_img {
-    margin-left: 34px;
+    margin-left: 18px;
     margin-bottom: 15px;
     width: 417px;
 }
@@ -100,7 +100,7 @@
     margin-left: 134px;
 }
 .more_photos img {
-    margin-left: 34px;
+    margin-left: 18px;
     margin-bottom: 15px;
     margin-top: 39px;
     width: 417px;
