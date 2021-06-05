@@ -16,9 +16,10 @@ const countDown = () => {
     const textSecond = Math.floor((gap % minute ) / second)
     
 
-    document.querySelector('.day').innerText = textDay
-    document.querySelector('.hour').innerText = textHour
-    document.querySelector('.minute').innerText = textMinute
-    document.querySelector('.second').innerText = textSecond
+    document.querySelector('.day').innerText = textDay;
+    document.querySelector('.hour').innerText = textHour;
+    document.querySelector('.minute').innerText = textMinute;
+    document.querySelector('.second').innerText = textSecond;
+
 }
 setInterval(countDown, 1000);
