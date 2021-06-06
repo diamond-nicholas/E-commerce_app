@@ -1,17 +1,20 @@
 * {
-    margin: 0;
-    box-sizing: border-box;
+    /* margin: 0; */
+    /* box-sizing: border-box; */
     color: #000000;
 }
 .navbar {
     background-color: #000000;
-    color: #ffffff;
 }
 .navbar h3 {
     font-size: 16px;
     text-align: center;
-    margin-left: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 45px;
     margin-top: 5px;
+    color: #ffffff;
 }
 .home {
     background-color: #ffffff;
@@ -24,7 +27,7 @@
     font-family: 'Montserrat', Sans-serif;
     font-weight: 600;
     font-size: 16px;
-    margin-left: 61px;
+    margin-left: 20px;
     margin-top: 18px;
     margin-bottom: 2px;
 }
@@ -32,7 +35,7 @@
     color: #680000;
     font-family: 'Montserrat', Sans-serif;
     font-weight: 600;
-    margin-left: 132px;
+    margin-left: 80px;
     margin-bottom: 10px;
 }
 .home_left .txt {
@@ -40,7 +43,7 @@
     font-family: 'Montserrat', Sans-serif;
     font-weight: 500;
     line-height: 20px;
-    margin-left: 13px;
+    /* margin-left: 13px; */
 }
 /* this is for the timer countdown */
 .coming_soon h3{
@@ -58,17 +61,17 @@
     color: #B31808;
     font-family: "Roboto", Sans-serif;
     font-weight: 600;
-    margin-left: 144px;
+    margin-left: 75px;
 }
 .home_left .btn {
     font-family: "Roboto", Sans-serif;
     font-weight: 500;
     background-color: #F20505;
-    margin-left: 134px;
+    margin-left: 60px;
 }
 .slider {
     margin-top: 20px;
-    margin-left: 15px;
+    margin-left: 14px;
 }
 /* feature */
 .feature h5 {
@@ -76,9 +79,12 @@
     font-family: "Montserrat", Sans-serif;
     font-weight: 600;
     font-size: 15px;
-    margin-left: 42px;
+    margin-left: 9px;
     margin-top: 32px;
     margin-bottom: 23px;
+}
+.feature_list {
+    margin-left: -15px;
 }
 .feature .feature_list .list {
     color: #000000;
@@ -89,19 +95,22 @@
     margin-bottom: 27px;
 }
 .gallery .gallery_img {
-    margin-left: 18px;
+    /* margin-left: 14px; */
     margin-bottom: 15px;
-    width: 417px;
+    width: 340px;
+    height: 300px;
 }
 .pricing .btn {
     font-family: "Roboto", Sans-serif;
     font-weight: 500;
     background-color: #F20505;
-    margin-left: 134px;
+    margin-left: 60px;
 }
 .more_photos img {
-    margin-left: 18px;
+    /* margin-left: 18px; */
     margin-bottom: 15px;
     margin-top: 39px;
-    width: 417px;
+    width: 340px;
+    height: 300px;
+
 }
